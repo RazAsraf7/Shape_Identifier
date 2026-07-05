@@ -13,7 +13,7 @@ The model is designed to classify images into one of **8 distinct geometric shap
 * █ Rectangle
 * ▱ Parallelogram
 * 🪁 Kite
-* ⚪ Circle
+* ⚪ Circle 
 
 ## 🧠 Core Implementation Details & Math
 Since the algorithm was constructed from the ground up, the project contains raw implementations of:
